@@ -5,7 +5,7 @@
 The overall architecture of our proposed ACoSDN:
 
 <p align="center">
-  <img src="assets/ACoSDN.pdf" width="85%">
+  <img src="./assets/ACoSDN.pdf" width="85%">
   </p>
 
 
