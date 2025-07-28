@@ -41,6 +41,7 @@ To train the ACoSDN model from scratch, use the `train.py` script. You can speci
 python train.py --dataset iemocap --batch_size 16 --learning_rate 1e-5 --epochs 50
 
 python train.py --dataset meld --batch_size 32 --learning_rate 1e-5 --epochs 40
+```
 
 ## Acknowledgements
 
