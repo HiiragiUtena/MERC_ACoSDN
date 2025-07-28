@@ -4,7 +4,7 @@
 
 The overall architecture of our proposed ACoSDN:
 
-![Overview of ACoSDN](https://github.com/HiiragiUtena/MERC_ACoSDN/tree/main/assets/ACoSDN.png)
+![Overview of ACoSDN](/assets/ACoSDN.png)
 
 ## Installation
 
