@@ -5,7 +5,7 @@
 The overall architecture of our proposed ACoSDN:
 
 <p align="center">
-  <img src="https://github.com/HiiragiUtena/MERC_ACoSDN/tree/main/assets/ACoSDN.png" width="85%">
+  <img src="https://github.com/HiiragiUtena/repositpry/master/MERC_ACoSDN/assets/ACoSDN.png" width="85%">
   </p>
 
 
